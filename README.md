@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Thejas 👋<br><br>🔭 I’m currently working on — Full-stack applications using React, .NET Core, Node.js, and REST APIs<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on — Open-source projects, full-stack applications, and AI-powered projects<br><br>🤝 I’m looking for help with — Building scalable applications and integrating AI into real-world products<br><br>🌱 I’m currently learning — LLMs, Agentic AI, RAG, LangChain, and cloud technologies<br><br>💬 Ask me about — React, Node.js, ASP.NET Core, Java, Python, REST APIs, and databases<br><br>⚡ Fun fact — I enjoy turning ideas into working applications and experimenting with new technologies
+I’m Thejas 👋<br><br>🔭 I’m currently working on — Full-stack applications using React, .NET Core, Node.js, and REST APIs<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on — Open-source projects, full-stack applications, and AI-powered projects<br><br>🤝 I’m looking for help with — Building scalable applications and integrating AI into real-world products<br><br>🌱 I’m currently learning — LLMs, Agentic AI, RAG, LangChain, and cloud technologies<br><br>💬 Ask me about — React, Node.js, ASP.NET Core, Java, Python, REST APIs, and database<br><br>⚡ Fun fact — I enjoy turning ideas into working applications and experimenting with new technologies
 
 
 ## 🌐 Socials:
